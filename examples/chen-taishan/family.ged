@@ -1,0 +1,224 @@
+0 HEAD
+1 SOUR XUNGEN
+2 NAME xungen family.py
+2 VERS 0.1.0
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 DATE 20 NOV 2026
+0 @I1@ INDI
+1 NAME 有道 /陈/
+2 GIVN 有道
+2 SURN 陈
+1 SEX M
+1 BIRT
+2 DATE ABT 1845
+2 PLAC 广东省新宁县（今台山市）某村
+1 NOTE 第14世；证据：口述/无出处
+1 NOTE 只有大伯口述，族谱这一页缺损
+1 SOUR @S5@
+1 FAMS @F1@
+0 @I2@ INDI
+1 NAME 德昌 /陈/
+2 GIVN 德昌
+2 SURN 陈
+1 NAME 子盛
+2 TYPE aka
+2 NOTE 字
+1 SEX M
+1 BIRT
+2 DATE 1873
+2 PLAC 广东省新宁县（今台山市）某村
+2 NOTE 原始记载：同治十二年
+1 DEAT
+2 DATE 1930
+2 NOTE 原始记载：民国十九年
+1 NOTE 第15世，字辈“德”；证据：互证
+1 SOUR @S1@
+1 SOUR @S2@
+1 FAMC @F1@
+1 FAMS @F2@
+0 @I3@ INDI
+1 NAME /黄/
+2 SURN 黄
+1 SEX F
+1 BIRT
+2 DATE ABT 1876
+1 DEAT
+2 DATE 1941
+2 NOTE 原始记载：民国三十年
+1 NOTE 第15世；证据：单一来源
+1 SOUR @S1@
+1 FAMS @F2@
+0 @I4@ INDI
+1 NAME 振华 /陈/
+2 GIVN 振华
+2 SURN 陈
+1 NAME Chan Chun Wah
+2 TYPE aka
+1 SEX M
+1 BIRT
+2 DATE 1896
+2 NOTE 原始记载：光绪二十二年
+1 DEAT
+2 DATE 1958
+1 NOTE 第16世，字辈“振”；证据：互证
+1 NOTE 1914 年赴澳洲悉尼，1937 年回乡（虚构）
+1 SOUR @S1@
+1 SOUR @S3@
+1 SOUR @S4@
+1 FAMC @F2@
+1 FAMS @F3@
+0 @I5@ INDI
+1 NAME 振邦 /陈/
+2 GIVN 振邦
+2 SURN 陈
+1 SEX M
+1 BIRT
+2 DATE 1899
+2 NOTE 原始记载：光绪二十五年
+1 DEAT
+2 DATE 1938
+1 NOTE 第16世，字辈“振”；证据：单一来源
+1 SOUR @S1@
+1 FAMC @F2@
+1 FAMS @F4@
+0 @I6@ INDI
+1 NAME /李/
+2 SURN 李
+1 SEX F
+1 BIRT
+2 DATE 1898
+1 DEAT
+2 DATE 1972
+1 NOTE 第16世；证据：口述/无出处
+1 SOUR @S5@
+1 FAMS @F3@
+0 @I7@ INDI
+1 NAME 家骏 /陈/
+2 GIVN 家骏
+2 SURN 陈
+1 SEX M
+1 BIRT
+2 DATE 1921
+1 DEAT
+2 DATE 1999
+1 NOTE 第17世，字辈“家”；证据：互证
+1 SOUR @S1@
+1 SOUR @S6@
+1 FAMC @F3@
+1 FAMS @F5@
+0 @I8@ INDI
+1 NAME 家莲 /陈/
+2 GIVN 家莲
+2 SURN 陈
+1 SEX F
+1 BIRT
+2 DATE 1925
+1 DEAT
+2 DATE 2010
+1 NOTE 第17世，字辈“家”；证据：单一来源
+1 NOTE 族谱不载女儿，出自户口簿
+1 SOUR @S6@
+1 FAMC @F3@
+0 @I9@ INDI
+1 NAME 嘉文 /陈/
+2 GIVN 嘉文
+2 SURN 陈
+1 SEX M
+1 BIRT
+2 DATE 1930
+1 DEAT
+2 DATE 1990
+1 NOTE 第17世，字辈“家”；证据：口述/无出处
+1 NOTE 口述；族谱里没找到，“嘉”可能是“家”的同音误写
+1 SOUR @S5@
+1 FAMC @F4@
+0 @I10@ INDI
+1 NAME 丽芳 /张/
+2 GIVN 丽芳
+2 SURN 张
+1 SEX F
+1 BIRT
+2 DATE 1926
+1 DEAT
+2 DATE 2015
+1 NOTE 第17世；证据：口述/无出处
+1 SOUR @S5@
+1 FAMS @F5@
+0 @I11@ INDI
+1 NAME 在世 /陈/
+1 RESN privacy
+1 SEX M
+1 FAMC @F5@
+1 FAMS @F6@
+0 @I12@ INDI
+1 NAME 在世 /陈/
+1 RESN privacy
+1 SEX M
+1 FAMC @F5@
+0 @I13@ INDI
+1 NAME 在世 /林/
+1 RESN privacy
+1 SEX F
+1 FAMS @F6@
+0 @I14@ INDI
+1 NAME 在世 /陈/
+1 RESN privacy
+1 SEX M
+1 FAMC @F6@
+0 @F1@ FAM
+1 HUSB @I1@
+1 CHIL @I2@
+0 @F2@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I4@
+1 CHIL @I5@
+0 @F3@ FAM
+1 HUSB @I4@
+1 WIFE @I6@
+1 CHIL @I7@
+1 CHIL @I8@
+0 @F4@ FAM
+1 HUSB @I5@
+1 CHIL @I9@
+0 @F5@ FAM
+1 HUSB @I7@
+1 WIFE @I10@
+1 CHIL @I11@
+1 CHIL @I12@
+0 @F6@ FAM
+1 HUSB @I11@
+1 WIFE @I13@
+1 CHIL @I14@
+0 @S1@ SOUR
+1 TITL 《新宁陈氏族谱》民国二十五年续修本
+1 REPO
+2 NAME 台山某村祠堂（虚构）
+1 NOTE original；卷三 世系 页十二至十五
+0 @S2@ SOUR
+1 TITL 陈德昌墓碑
+1 REPO
+2 NAME 某村后山（虚构）
+1 NOTE original；碑文：显考德昌陈公之墓 民国十九年立
+0 @S3@ SOUR
+1 TITL 陈振华 CEDT 档案
+1 REPO
+2 NAME 澳大利亚国家档案馆（虚构示例，没有真实档案号）
+1 NOTE original
+0 @S4@ SOUR
+1 TITL 陈振华寄回家的侨批 11 封（1920–1937）
+1 REPO
+2 NAME 家藏（虚构）
+1 NOTE original
+0 @S5@ SOUR
+1 TITL 大伯口述（2026 年春节）
+1 NOTE oral
+0 @S6@ SOUR
+1 TITL 1951 年户口簿
+1 REPO
+2 NAME 家藏（虚构）
+1 NOTE original
+0 TRLR
